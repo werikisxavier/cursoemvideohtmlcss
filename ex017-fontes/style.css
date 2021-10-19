@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+h1{
+    font-family:  Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 3em;
+    font-style: italic;
+
+/* 
+   font-family:  Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 3em;
+    font-style: italic;
+
+shortthand font 
+font-style-> font-weight -> font-size -> font-family; */
+
+    font: italic bolder 3em Arial, sans-serif;
+}
+
